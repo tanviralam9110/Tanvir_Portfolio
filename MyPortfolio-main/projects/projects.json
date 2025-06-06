@@ -1,0 +1,43 @@
+[
+  {
+    "name": "Banking Application",
+    "desc": "A secure RESTful web application with account creation, deposits, withdrawals, and balance inquiry features using Java and Spring Boot.",
+    "image": "banking.png",
+    "category": "backend",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "E-Commerce Website",
+    "desc": "A full-stack shopping site with user login, product listings, and cart functionality using Spring Boot, MySQL, HTML, CSS, and JavaScript.",
+    "image": "ecommerce.png",
+    "category": "fullstack",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Student Management System",
+    "desc": "A Java-JDBC based application to manage student records with CRUD operations connected to a MySQL database.",
+    "image": "student.png",
+    "category": "corejava",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "A personal portfolio created using HTML, CSS, and JavaScript to showcase skills, projects, and contact details.",
+    "image": "portfolio.png",
+    "category": "frontend",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+]
+
