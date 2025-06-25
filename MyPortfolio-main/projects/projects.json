@@ -20,9 +20,9 @@
     }
   },
   {
-    "name": "Student Management System",
-    "desc": "A Java-JDBC based application to manage student records with CRUD operations connected to a MySQL database.",
-    "image": "student.png",
+    "name": "Hotel Reservation System",
+    "desc": "A Java-JDBC based application to manage hotel bookings with CRUD operations connected to a MySQL database.",
+    "image": "hotel.png",
     "category": "corejava",
     "links": {
       "view": "#",
@@ -40,4 +40,3 @@
     }
   }
 ]
-
