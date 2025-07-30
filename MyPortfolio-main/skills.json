@@ -56,10 +56,9 @@
     "icon": "https://img.icons8.com/material-rounded/48/000000/github.png"
   },
   {
-  "name": "Postman",
-  "icon": "https://img.icons8.com/color/48/000000/postman-app.png"
-},
-
+    "name": "Postman",
+    "icon": "https://img.icons8.com/color/48/000000/postman-app.png"
+  },
   {
     "name": "VS Code",
     "icon": "https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"
@@ -72,11 +71,10 @@
     "name": "Eclipse",
     "icon": "https://img.icons8.com/color/48/000000/eclipse.png"
   },
- {
-  "name": "Agile Methodology",
-  "icon": "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/48/external-agile-project-management-flaticons-lineal-color-flat-icons.png"
-}
-,
+  {
+    "name": "Agile Methodology",
+    "icon": "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/48/external-agile-project-management-flaticons-lineal-color-flat-icons.png"
+  },
   {
     "name": "Data Structures & Algorithms",
     "icon": "https://img.icons8.com/external-flat-juicy-fish/60/external-algorithm-coding-and-development-flat-flat-juicy-fish.png"
@@ -92,5 +90,27 @@
   {
     "name": "OpenAI API",
     "icon": "https://img.icons8.com/ios-filled/50/artificial-intelligence.png"
-  }
+  },
+  {
+    "name": "Google Cloud",
+    "icon": "https://img.icons8.com/color/48/google-cloud.png"
+  },
+  {
+    "name": "Deloitte",
+    "icon": "https://img.icons8.com/color/48/deloitte.png"
+  },
+  {
+    "name": "HackerRank",
+    "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png"
+  },
+  {
+    "name": "Udemy",
+    "icon": "https://img.icons8.com/ios-filled/50/udemy.png"
+  },
+
+  {
+  "name": "Generative AI",
+  "icon": "https://img.icons8.com/fluency/48/artificial-intelligence.png"
+}
+
 ]

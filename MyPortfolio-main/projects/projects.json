@@ -1,12 +1,23 @@
 [
   {
+  "name": "Product & Category Management API",
+  "desc": "A robust RESTful backend application for managing products and categories using Spring Boot, JPA, and Hibernate with CRUD operations, DTOs, and Swagger documentation.",
+  "image": "product-category.png",
+  "category": "backend",
+  "links": {
+    "view": "#",
+    "code": "https://github.com/tanviralam9110/Spring-Boot-Project-Product-Category"
+  }
+},
+
+  {
     "name": "Banking Application",
     "desc": "A secure RESTful web application with account creation, deposits, withdrawals, and balance inquiry features using Java and Spring Boot.",
     "image": "banking.png",
     "category": "backend",
     "links": {
       "view": "#",
-      "code": "#"
+      "code": "https://github.com/tanviralam9110/Banking-Application"
     }
   },
   {
@@ -16,7 +27,7 @@
     "category": "fullstack",
     "links": {
       "view": "#",
-      "code": "#"
+      "code": "https://github.com/tanviralam9110/E-commerce-Website"
     }
   },
   {
@@ -25,8 +36,8 @@
     "image": "hotel.png",
     "category": "corejava",
     "links": {
-      "view": "#",
-      "code": "#"
+      "view": "",
+      "code": "https://github.com/tanviralam9110/Hotel-Reservation-System"
     }
   },
   {
@@ -35,8 +46,8 @@
     "image": "portfolio.png",
     "category": "frontend",
     "links": {
-      "view": "#",
-      "code": "#"
+      "view": "https://tanviralam9110.github.io/Tanvir_Portfolio/",
+      "code": "https://github.com/tanviralam9110/Tanvir_Portfolio"
     }
   }
 ]
